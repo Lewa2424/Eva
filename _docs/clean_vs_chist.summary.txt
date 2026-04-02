@@ -1,0 +1,13 @@
+FILES
+_docs\eva_2.0_clean_0.4.extracted.txt
+_docs\Ева_2.0_чистовик_0.4.txt
+
+SIMILARITY
+char_ratio=0.988600
+line_jaccard=0.995118
+
+ONLY_IN_PDF
+
+ONLY_IN_TXT
+
+NOTE: normalized; page markers removed.
