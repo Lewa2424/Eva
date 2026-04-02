@@ -1,2 +1,2 @@
-# For_Eva
+# Eva
 Shared workspace for AI project "EVA" – documents, configs, scripts, notes.
